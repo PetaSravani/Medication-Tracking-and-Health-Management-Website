@@ -33,7 +33,8 @@ A front-end hospital management system developed using HTML, CSS, and JavaScript
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/PetaSravani/hospital-management-website.git
+   git clone https://github.com/PetaSravani/Medication-Tracking-and-Health-Management-Website.git
+
 
 ## Usage
 
